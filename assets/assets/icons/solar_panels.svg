@@ -1,0 +1,13 @@
+<svg id="Icons_-_Line_-_Weather" data-name="Icons - Line - Weather" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#14142b" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <g id="Weather_Sun" data-name="Weather Sun">
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="6" cy="6" r="6" transform="translate(6 6)" fill="none" stroke="#14142b" stroke-width="2"/>
+    <path id="Path_521" data-name="Path 521" d="M12,1V2m0,21V22" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_522" data-name="Path 522" d="M4.222,19.778l.707-.707M19.778,4.222l-.707.707" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_523" data-name="Path 523" d="M4.222,4.222l.707.707M19.778,19.778l-.707-.707" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_524" data-name="Path 524" d="M1,12H2m21,0H22" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
