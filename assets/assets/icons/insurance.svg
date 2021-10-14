@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24.222" height="24" viewBox="0 0 24.222 24">
-  <g id="Icons_-_Line_-_Transportation" data-name="Icons - Line - Transportation" transform="translate(0.111)">
-    <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#14142b" stroke-width="1" opacity="0">
-      <rect width="24" height="24" stroke="none"/>
-      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
-    </g>
-    <g id="World_Globe" data-name="World Globe" transform="translate(-0.111 -0.25)">
-      <path id="Path_317" data-name="Path 317" d="M3,15l-.894-.447A2,2,0,0,1,1,12.764v-.878a2,2,0,0,1,1.3-1.873l2.049-.768a3.287,3.287,0,0,0,1.1-.776C6.2,7.736,7.985,6.5,11.5,6.5a7.834,7.834,0,0,1,5.741,2.03A3.65,3.65,0,0,0,19.231,9.6C20.6,9.79,22.67,10.352,23,12a8.507,8.507,0,0,1,.211,2.21c-.038.529-.509.79-1.04.79H21m-5,0H8" fill="none" stroke="#14142b" stroke-width="2"/>
-      <circle id="Ellipse_38" data-name="Ellipse 38" cx="2.5" cy="2.5" r="2.5" transform="translate(3 13)" fill="none" stroke="#14142b" stroke-width="2"/>
-      <circle id="Ellipse_39" data-name="Ellipse 39" cx="2.5" cy="2.5" r="2.5" transform="translate(16 13)" fill="none" stroke="#14142b" stroke-width="2"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24.222" height="13.5" viewBox="0 0 24.222 13.5"><g transform="translate(1 1)"><path d="M3,15l-.894-.447A2,2,0,0,1,1,12.764v-.878a2,2,0,0,1,1.3-1.873l2.049-.768a3.287,3.287,0,0,0,1.1-.776C6.2,7.736,7.985,6.5,11.5,6.5a7.834,7.834,0,0,1,5.741,2.03A3.65,3.65,0,0,0,19.231,9.6C20.6,9.79,22.67,10.352,23,12a8.507,8.507,0,0,1,.211,2.21c-.038.529-.509.79-1.04.79H21m-5,0H8" transform="translate(-1 -6.5)" fill="none" stroke="#909090" stroke-width="2"/><circle cx="2.5" cy="2.5" r="2.5" transform="translate(2 6.5)" fill="none" stroke="#909090" stroke-width="2"/><circle cx="2.5" cy="2.5" r="2.5" transform="translate(15 6.5)" fill="none" stroke="#909090" stroke-width="2"/></g></svg>

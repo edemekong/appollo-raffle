@@ -1,14 +1,1 @@
-<svg id="Icons_-_Line_-_Transportation" data-name="Icons - Line - Transportation" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#14142b" stroke-width="1" opacity="0">
-    <rect width="24" height="24" stroke="none"/>
-    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
-  </g>
-  <g id="Group_7584" data-name="Group 7584" transform="translate(-161.996 -2942)">
-    <g id="Ticket" transform="translate(162 2942)">
-      <path id="Path_344" data-name="Path 344" d="M15,4V6" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path id="Path_345" data-name="Path 345" d="M15,11v2" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path id="Path_346" data-name="Path 346" d="M15,18v2" fill="none" stroke="#14142b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    </g>
-    <path id="Subtraction_3" data-name="Subtraction 3" d="M20954,10454h-18a2,2,0,0,1-2-2v-3.169a3,3,0,0,0,0-5.655V10440a2,2,0,0,1,2-2h18a2,2,0,0,1,2,2v3.176a3,3,0,0,0,0,5.652V10452A2,2,0,0,1,20954,10454Z" transform="translate(-20771 -7492)" fill="none" stroke="#14142b" stroke-width="2"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24.002" height="18.003" viewBox="0 0 24.002 18.003"><g transform="translate(1.002 1.001)"><g transform="translate(14.002)"><path d="M15,4V6" transform="translate(-15 -4)" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><path d="M15,11v2" transform="translate(-15 -4)" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><path d="M15,18v2" transform="translate(-15 -4)" fill="none" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></g><path d="M20,16H2a2,2,0,0,1-2-2V10.83A3,3,0,0,0,2,8a3,3,0,0,0-2-2.83V2A2,2,0,0,1,2,0H20a2,2,0,0,1,2,2V5.174a3,3,0,0,0,0,5.654V14A2,2,0,0,1,20,16Z" transform="translate(-0.002)" fill="none" stroke="#292929" stroke-width="2"/></g></svg>
