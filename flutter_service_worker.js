@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5126c18b7dbc571f6fe2f323a8c42952",
-"index.html": "357cf94b2443315ea616223bc660053b",
-"/": "357cf94b2443315ea616223bc660053b",
+"index.html": "aa7b5bc4c936f72b084f0e6e11edd978",
+"/": "aa7b5bc4c936f72b084f0e6e11edd978",
 "main.dart.js": "e5f9f3b8bc35d84da4f29dcb75ef1c57",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -29,7 +29,7 @@ const RESOURCES = {
 "assets/packages/awesome_card/fonts/MavenPro-Bold.ttf": "c3c32db501249a4a864e3359d88469fb",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/charity.png": "4441aa0f267153226c087a0fa49277ef",
-"assets/assets/images/car2.png": "ec9a0ec8a1c13eac1e9238f946e10600",
+"assets/assets/images/car2.png": "0e8d6be1f3ea0e375bd8edf172c56424",
 "assets/assets/images/support.png": "52c839e0abe8ee5f216ef6f157c32640",
 "assets/assets/images/connect-grey.png": "a2d48b8ed8edf4e2cd14edb9a86fce95",
 "assets/assets/images/nastraplas.png": "72c1960c42c8a4d245be64f674ae79ac",
@@ -41,7 +41,7 @@ const RESOURCES = {
 "assets/assets/images/jasolar-grey.png": "241d1556168aed0ea4e0c8e814af2254",
 "assets/assets/images/connact-grey.png": "a2d48b8ed8edf4e2cd14edb9a86fce95",
 "assets/assets/images/sma-color.png": "85ef4203ba2094c1c89cb53346a1243e",
-"assets/assets/images/logo.png": "c6aaf76b3521cd285a84495c4bb16c8e",
+"assets/assets/images/logo.png": "9dc10fe7256351f8d91c5547dd590221",
 "assets/assets/images/logo2.png": "2784b2beec11fcc3b8ab20808f8a3744",
 "assets/assets/images/tesla-grey.png": "d9110aa4d0b2a3f4f7d1418480cdbc15",
 "assets/assets/images/mcdonal.png": "fe573aee465111e7953703a997e977cc",
