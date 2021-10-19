@@ -71088,7 +71088,7 @@ E(a,b){var s=null,r=b.K(t.l).f
 return M.aG(s,T.dn(U.cA("assets/images/logo.png",s,s,s,s),s,s),C.m,C.t,s,s,s,64,s,s,s,s,s,r.a.a)}}
 B.IA.prototype={
 E(a,b){var s=null,r=t.p
-return new T.q(new V.m(0,32,0,0),T.af(H.a([new T.q(new V.m(0,0,0,32),M.a2("Trusted Brands",s,$.eH(),s),s),new T.q(new V.m(32,0,32,0),T.am(H.a([new R.h1("assets/images/tesla-color.png","assets/images/tesla-grey.png",s,s),new R.h1("assets/images/sma-color.png","assets/images/SMA-grey.png",s,s),new R.h1("assets/images/jasolar-color.png","assets/images/jasolar-grey.png",s,s)],r),C.i,C.w,C.h),s)],r),C.i,C.l,C.h),s)}}
+return new T.q(new V.m(0,32,0,0),T.af(H.a([new T.q(new V.m(0,0,0,32),M.a2("Trusted Brands",s,$.eH(),s),s),new T.q(new V.m(32,0,32,0),T.am(H.a([new R.h1("assets/images/tesla-color.png","assets/images/tesla-grey.png",s,s),new R.h1("assets/images/sma-color.png","assets/images/sma-grey.png",s,s),new R.h1("assets/images/jasolar-color.png","assets/images/jasolar-grey.png",s,s)],r),C.i,C.w,C.h),s)],r),C.i,C.l,C.h),s)}}
 D.IB.prototype={
 E(a,b){var s=null,r=t.s,q=t.p
 return new T.q(new V.m(0,32,0,0),T.af(H.a([M.a2("What You\u2019ll Win",s,$.eH(),s),new T.q(new V.m(0,32,0,0),T.am(H.a([T.bh(T.af(H.a([new T.q(new V.m(0,0,0,16),new D.nb("Tesla Model 3 Long Range",H.a(["Valued at $80,780 (AUD)","Estimated Yearly Savings $5,600"],r),s),s),new T.q(new V.m(0,0,0,16),new D.nb("SMA + JA Solar PV System",H.a(["Up to 18 x 390W JA Solar Panels","Up to a 5kW SMA Inverter","Tesla Powerwall","2 Valued at up to $25,000","10 Years Savings of up to $40,000"],r),s),s),new T.q(new V.m(0,0,0,16),new D.nb("5 Years Car Insurance",H.a(["Up to $1000 per year for 5 years"],r),s),s),new T.q(new V.m(0,0,0,16),new D.nb("New Tyres",H.a(["Up to $2,000 over 5 Years"],r),s),s),new T.q(new V.m(0,0,0,16),new D.nb("Car Registration",H.a(["5 Years of car registration"],r),s),s)],q),C.aa,C.l,C.h),s,440),this.a21(b)],q),C.aa,C.l,C.h),s)],q),C.aa,C.l,C.h),s)},
@@ -71388,7 +71388,7 @@ E(a,b){var s=null,r=b.K(t.l).f,q=F.jh(C.t,0)
 return M.aG(s,new T.q(new V.m(0,4,0,4),T.dn(U.cA("assets/images/logo.png",s,s,s,s),s,s),s),C.m,s,s,new S.aZ(C.t,s,q,new K.cF(C.a0,C.a0,new P.bD(16,16),new P.bD(16,16)),s,s,C.y),s,48,s,s,s,s,s,r.a.a)}}
 Z.KY.prototype={
 E(a,b){var s=null,r=t.p
-return new T.q(new V.m(0,0,0,32),T.af(H.a([new T.q(new V.m(0,0,0,16),M.a2("Trusted Brands",s,$.lU().aA(C.t),s),s),new T.q(new V.m(16,0,16,0),T.am(H.a([new R.h1("assets/images/tesla-color.png","assets/images/tesla-grey.png",100,s),new R.h1("assets/images/jasolar-color.png","assets/images/jasolar-grey.png",100,s),new R.h1("assets/images/sma-color.png","assets/images/SMA-grey.png",100,s)],r),C.i,C.w,C.h),s)],r),C.i,C.l,C.h),s)}}
+return new T.q(new V.m(0,0,0,32),T.af(H.a([new T.q(new V.m(0,0,0,16),M.a2("Trusted Brands",s,$.lU().aA(C.t),s),s),new T.q(new V.m(16,0,16,0),T.am(H.a([new R.h1("assets/images/tesla-color.png","assets/images/tesla-grey.png",100,s),new R.h1("assets/images/jasolar-color.png","assets/images/jasolar-grey.png",100,s),new R.h1("assets/images/sma-color.png","assets/images/sma-grey.png",100,s)],r),C.i,C.w,C.h),s)],r),C.i,C.l,C.h),s)}}
 D.KZ.prototype={
 E(a,b){var s,r,q=null,p=t.l,o=b.K(p).f,n=M.a2("What You\u2019ll Win",q,$.lU().aA(C.t),q)
 p=b.K(p).f
