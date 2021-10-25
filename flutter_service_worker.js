@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5126c18b7dbc571f6fe2f323a8c42952",
-"index.html": "1c3168f489de9e4864667e44cb4d49e8",
-"/": "1c3168f489de9e4864667e44cb4d49e8",
-"main.dart.js": "8b6dc7b02924f2544c83b70ec864fd18",
+"index.html": "437b11fb8b773d98d07775bb1ad27a96",
+"/": "437b11fb8b773d98d07775bb1ad27a96",
+"main.dart.js": "fc51f5bff0d11b6f8650023236b15f29",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -47,7 +47,7 @@ const RESOURCES = {
 "assets/assets/images/mcdonal.png": "fe573aee465111e7953703a997e977cc",
 "assets/assets/images/nastraplas-grey.png": "2f0acd20f419b7ceec0942982d6648da",
 "assets/assets/images/sma-grey.png": "22e116aebd0e07bd3fa7102e64005242",
-"assets/assets/images/car.png": "c54600d0e85b5f38b09db0406e5a78e6",
+"assets/assets/images/car.png": "000cf64a0035e41113e75c6376e78053",
 "assets/assets/images/nastraplas-coloe.png": "c89a906d8b50d3f0836acdf3a9e9d794",
 "assets/assets/images/jasolar-color.png": "927ea30c3fa3af35954161d24e1a528c",
 "assets/assets/icons/plus.png": "f0305a051a264bdaf43f7aea8c869be6",
